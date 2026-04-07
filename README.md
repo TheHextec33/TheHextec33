@@ -5,7 +5,7 @@
 ### Conheça nossas soluções:
 
 [![Site](https://img.shields.io/website-site-down-purple-red/http/monip.org.svg?label=thehextec.com.br&style=for-the-badge&url=https//thehextec.com.br/)](https://thehextec.com.br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thehextec?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thehextec)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55DDDNUMERO)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
