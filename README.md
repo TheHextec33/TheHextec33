@@ -2,7 +2,7 @@
 
 ### Fazemos você ser visto como referência (e vender)
 ### Fotos • Sites • Mídias Sociais
-### Conheça nossas soluções:a
+### Conheça nossas soluções:
 
 [![Site](https://img.shields.io/website-site-down-purple-red/http/monip.org.svg?label=thehextec.com.br&style=for-the-badge&url=https//thehextec.com.br/)](https://thehextec.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thehextec)
