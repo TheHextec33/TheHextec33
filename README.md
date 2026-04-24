@@ -2,7 +2,7 @@
 
 ### Fazemos você ser visto como referência (e vender)
 ### Fotos • Sites • Mídias Sociais
-### Conheça nossas soluções:
+### Conheça nossas soluções:a
 
 [![Site](https://img.shields.io/website-site-down-purple-red/http/monip.org.svg?label=thehextec.com.br&style=for-the-badge&url=https//thehextec.com.br/)](https://thehextec.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thehextec)
@@ -20,3 +20,11 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+<div align="center">
+  <a href="https://github.com/TheHextec33">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheHextec33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHextec33&layout=compact&langs_count=7&hide=javascript,html,css,scss,vue&theme=dracula"/>
+</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHextec33&layout=compact&langs_count=7&hide=javascript,html,css,scss,vue&theme=dracula"/>
+</div>
